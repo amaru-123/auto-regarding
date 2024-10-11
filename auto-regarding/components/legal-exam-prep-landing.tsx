@@ -131,7 +131,7 @@ export default function LegalExamPrepLanding() {
       {/* Footer */}
       <footer className="bg-[#0a2472] text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>@2024 amaru All rights reserved.</p>
+          <p>@2024 LegalSuite Inc. All rights reserved.</p>
         </div>
       </footer>
     </div>

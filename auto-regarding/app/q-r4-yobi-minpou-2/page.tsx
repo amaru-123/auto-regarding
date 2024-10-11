@@ -62,7 +62,7 @@ const handleSubmit = async () => {
     <div className="min-h-screen bg-[#f0f4f8] py-8">
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold text-[#0a2472]">令和4年予備試験過去問 設問1</h1>
+          <h1 className="text-3xl font-bold text-[#0a2472]">令和4年予備試験過去問 設問2</h1>
           <Button
             variant="outline"
             onClick={openLawReference}
